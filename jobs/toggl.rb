@@ -1,4 +1,6 @@
 require 'togglv8'
+require 'dotenv'
+Dotenv.load
 
 api = TogglV8::API.new(ENV['TOGGL_API_TOKEN'])
 
