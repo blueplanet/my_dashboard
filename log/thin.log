@@ -1,0 +1,139 @@
+Writing PID to tmp/pids/thin.pid
+/Users/gyo/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib/thin/backends/base.rb:103: warning: epoll is not supported on this platform
+Thin web server (v1.6.4 codename Gob Bluth)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+127.0.0.1 - - [19/Dec/2015 19:34:13] "GET / HTTP/1.1" 302 - 0.0025
+127.0.0.1 - - [19/Dec/2015 19:34:13] "GET /sample HTTP/1.1" 200 2293 0.0020
+127.0.0.1 - - [19/Dec/2015 19:34:15] "GET /views/text.html HTTP/1.1" 200 175 0.0014
+127.0.0.1 - - [19/Dec/2015 19:34:15] "GET /views/meter.html HTTP/1.1" 200 336 0.0013
+127.0.0.1 - - [19/Dec/2015 19:34:15] "GET /views/list.html HTTP/1.1" 200 493 0.0009
+127.0.0.1 - - [19/Dec/2015 19:34:15] "GET /views/number.html HTTP/1.1" 200 343 0.0024
+127.0.0.1 - - [19/Dec/2015 19:34:15] "GET /views/graph.html HTTP/1.1" 200 167 0.0011
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /sampletv HTTP/1.1" 200 3532 0.0042
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /events HTTP/1.1" 200 - 300.4090
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/clock.html HTTP/1.1" 200 53 0.0021
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/image.html HTTP/1.1" 200 73 0.0012
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/meter.html HTTP/1.1" 200 336 0.0013
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/list.html HTTP/1.1" 200 493 0.0005
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/number.html HTTP/1.1" 200 343 0.0006
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/graph.html HTTP/1.1" 200 167 0.0006
+127.0.0.1 - - [19/Dec/2015 19:39:16] "GET /views/comments.html HTTP/1.1" 200 289 0.0009
+127.0.0.1 - - [19/Dec/2015 19:40:22] "GET /events HTTP/1.1" 200 - 65.4238
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+127.0.0.1 - - [19/Dec/2015 19:57:00] "GET /desk HTTP/1.1" 200 1284 0.0032
+127.0.0.1 - - [19/Dec/2015 19:57:00] "GET /views/text.html HTTP/1.1" 200 175 0.0006
+127.0.0.1 - - [19/Dec/2015 19:57:08] "GET /desk HTTP/1.1" 200 1284 0.0029
+127.0.0.1 - - [19/Dec/2015 19:57:08] "GET /events HTTP/1.1" 200 - 7.8371
+127.0.0.1 - - [19/Dec/2015 19:57:09] "GET /views/text.html HTTP/1.1" 200 175 0.0011
+127.0.0.1 - - [19/Dec/2015 19:57:13] "GET /desk HTTP/1.1" 200 1284 0.0028
+127.0.0.1 - - [19/Dec/2015 19:57:13] "GET /events HTTP/1.1" 200 - 4.3066
+127.0.0.1 - - [19/Dec/2015 19:57:13] "GET /views/text.html HTTP/1.1" 200 175 0.0006
+127.0.0.1 - - [19/Dec/2015 19:57:17] "GET /desk HTTP/1.1" 200 1284 0.0030
+127.0.0.1 - - [19/Dec/2015 19:57:17] "GET /events HTTP/1.1" 200 - 4.0097
+127.0.0.1 - - [19/Dec/2015 19:57:17] "GET /views/text.html HTTP/1.1" 200 175 0.0010
+127.0.0.1 - - [19/Dec/2015 19:57:29] "GET /desk HTTP/1.1" 200 1284 0.0027
+127.0.0.1 - - [19/Dec/2015 19:57:29] "GET /events HTTP/1.1" 200 - 11.8330
+127.0.0.1 - - [19/Dec/2015 19:57:30] "GET /views/text.html HTTP/1.1" 200 175 0.0012
+127.0.0.1 - - [19/Dec/2015 19:57:46] "GET /desk HTTP/1.1" 200 1281 0.0027
+127.0.0.1 - - [19/Dec/2015 19:57:46] "GET /events HTTP/1.1" 200 - 16.5403
+127.0.0.1 - - [19/Dec/2015 19:57:47] "GET /views/text.html HTTP/1.1" 200 175 0.0006
+127.0.0.1 - - [19/Dec/2015 19:57:52] "GET /desk HTTP/1.1" 200 1281 0.0034
+127.0.0.1 - - [19/Dec/2015 19:57:52] "GET /events HTTP/1.1" 200 - 5.1002
+127.0.0.1 - - [19/Dec/2015 19:57:52] "GET /views/text.html HTTP/1.1" 200 175 0.0006
+127.0.0.1 - - [19/Dec/2015 19:58:01] "GET /desk HTTP/1.1" 200 1275 0.0027
+127.0.0.1 - - [19/Dec/2015 19:58:01] "GET /events HTTP/1.1" 200 - 9.1062
+127.0.0.1 - - [19/Dec/2015 19:58:01] "GET /views/text.html HTTP/1.1" 200 175 0.0007
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+127.0.0.1 - - [19/Dec/2015 20:54:39] "GET /events HTTP/1.1" 200 - 3397.4435
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+Exiting!
